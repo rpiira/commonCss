@@ -1,0 +1,11 @@
+{
+  "name": "common-css",
+  "version": "1.0.0",
+  "description": "shared and common css",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Piira <robert@piira.se> (http://piira.se)",
+  "license": "ISC"
+}
